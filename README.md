@@ -1,5 +1,7 @@
 [![Build C++](https://github.com/DevangRaval1/Roller/actions/workflows/Build%20C++.yml/badge.svg)](https://github.com/DevangRaval1/Roller/actions/workflows/Build%20C++.yml)
 
+[![cpplinter](https://github.com/DevangRaval1/Roller/actions/workflows/cpplinter.yml/badge.svg)](https://github.com/DevangRaval1/Roller/actions/workflows/cpplinter.yml)
+
 # Roller
 
 This repository provides a program that rolls a game die, such as the
